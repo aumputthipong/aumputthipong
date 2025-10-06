@@ -1,4 +1,4 @@
-Hi 👋 My name is Putthipong Chobngam
+Hi My name is Putthipong Chobngam
 ====================================
 Full-Stack Developer, Web Developer
 ----------------------------------
