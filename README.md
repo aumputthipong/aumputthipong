@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="150" src="[https://media.giphy.com/stickers/fomo-fomoduck-duck-Oj25fisQ3zhukVWY96](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZndpM2psdmVzYXZyNncyd2tvYXZjams0YTB5YWhvM2V6bTExOG9sMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Oj25fisQ3zhukVWY96/giphy.gif)"  />
 </div>
 
 Hi 👋 My name is Putthipong Chobngam
