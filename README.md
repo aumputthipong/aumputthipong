@@ -3,7 +3,7 @@ Hi My name is Putthipong Chobngam
 Full-Stack Developer, Web Developer
 ----------------------------------
 
-A recent graduate and new graduated passionate full-stack developer. I specialize in web development using technologies like TypeScript, JavaScript, React, NestJS, and Next.js. I'm always open to learning new things and continuously improving my skills.
+A new graduated passionate full-stack developer. I specialize in web development using technologies like TypeScript, JavaScript, React, NestJS, and Next.js. I'm always open to learning new things and continuously improving my skills.
 
 * 🌍  I'm based in Thailand
 * 🖥️  See my portfolio at [portfolio-putthipong.vercel.app/](http://portfolio-putthipong.vercel.app/)
