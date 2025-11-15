@@ -1,6 +1,6 @@
 Hi My name is Putthipong Chobngam
 ====================================
-Full-Stack Developer, Web Developer
+Full-Stack Developer, Software Engineer
 ----------------------------------
 
 A new graduated passionate full-stack developer. I specialize in web development using technologies like TypeScript, JavaScript, React, NestJS, and Next.js. I'm always open to learning new things and continuously improving my skills.
