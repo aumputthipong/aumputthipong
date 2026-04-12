@@ -1,7 +1,7 @@
 # Hi, I'm Putthipong Chobngam
 ### Full-Stack Developer | Software Engineer
 
-A recent Software Engineering graduate and passionate full-stack developer. I specialize in web development using technologies like TypeScript, React, NestJS, Next.js, and Go. I am always open to learning new things and continuously improving my skills to build high-quality software.
+A highly motivated Software Engineering graduate from King Mongkut's Institute of Technology Ladkrabang (KMITL). I specialize in full-stack web development using technologies like TypeScript, React, Next.js, NestJS, and Go. I am passionate about clean architecture, scalable systems, and continuously improving my skills to build high-quality software.
 
 - Based in: Thailand
 - Portfolio: [portfolio-putthipong.vercel.app](https://portfolio-putthipong.vercel.app/)
@@ -9,11 +9,42 @@ A recent Software Engineering graduate and passionate full-stack developer. I sp
 
 ---
 
+### Education
+
+**Bachelor of Science in Information Technology (Software Engineering)**
+King Mongkut's Institute of Technology Ladkrabang (KMITL) | 2021 - 2025
+
+---
+
 ### Skills & Technologies
 
-* **Languages:** JavaScript, TypeScript, Python, Java, Go
-* **Frontend:** HTML5, CSS3, React, Next.js, Vue.js, Tailwind CSS, Bootstrap, Material UI, Vite
-* **Mobile:** React Native
+* **Languages:** TypeScript, JavaScript, Go, Python, Java, PHP
+* **Frontend:** React, Next.js, Vue.js, HTML5, CSS3, Tailwind CSS, Material UI, Bootstrap
 * **Backend:** Node.js, Express.js, NestJS, FastAPI, Spring Boot
-* **Database, Cloud & DevOps:** MySQL, PostgreSQL, MongoDB, Firebase, Docker
-* **Tools & Design:** Git, VS Code, Figma
+* **Mobile:** React Native
+* **Database:** PostgreSQL, MySQL, MongoDB, Firebase
+* **Cloud, DevOps & Architecture:** Docker, AWS, GCP, RabbitMQ, Microservices
+* **Tools:** Git, GitHub, Postman, Figma, VS Code
+
+---
+
+### Featured Projects
+
+**AI Computer Vision Microservices (Senior Project)** | *TypeScript, React, NestJS, FastAPI, PostgreSQL, Tailwind CSS*
+* Designed and developed a web application providing non-technical users easy access to AI vision services.
+* Integrated AI models as microservices for object detection, segmentation, and classification on images and videos.
+
+**Project Management System Web Application** | *Next.js, Go, PostgreSQL, WebSockets*
+* Developed a collaborative project management web application featuring a real-time Kanban board.
+
+**Workspace Room Booking** | *Next.js, TypeScript, Tailwind CSS, MongoDB*
+* Built a comprehensive web platform for reserving and managing workspace environments.
+
+**Convenience Store Management System** | *Java, Spring Boot, MongoDB, RabbitMQ, React*
+* Implemented a management system utilizing a microservice architecture to handle store operations effectively.
+
+**Food Ordering For Canteen** | *Vue, Express.js, Node.js, MySQL*
+* Created a canteen food ordering system to streamline the purchasing process.
+
+**Job Search Application** | *React Native, Firebase*
+* Developed a mobile platform connecting job seekers and freelancers with available opportunities.
