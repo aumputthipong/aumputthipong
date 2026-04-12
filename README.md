@@ -1,7 +1,7 @@
 # Hi, I'm Putthipong Chobngam
 ### Full-Stack Developer | Software Engineer
 
-A highly motivated Software Engineering graduate from King Mongkut's Institute of Technology Ladkrabang (KMITL). I specialize in full-stack web development using technologies like TypeScript, React, Next.js, NestJS, and Go. I am passionate about clean architecture, scalable systems, and continuously improving my skills to build high-quality software.
+A highly motivated Software Engineering graduate from King Mongkut's Institute of Technology Ladkrabang (KMITL) with a strong focus on full-stack develoment. I have hands-on experience building projects using TypeScript, React, Next.js, NestJS, and Go. I am eager to keep learning, improve my coding practices, and apply software engineering best practices to problem-solving and project collaboration.
 
 - Based in: Thailand
 - Portfolio: [portfolio-putthipong.vercel.app](https://portfolio-putthipong.vercel.app/)
