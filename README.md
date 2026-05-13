@@ -18,9 +18,9 @@ King Mongkut's Institute of Technology Ladkrabang (KMITL) | 2021 - 2025
 
 ### Skills & Technologies
 
-* **Languages:** TypeScript, JavaScript, Go, Python, Java, PHP
+* **Programming Languages:** TypeScript, JavaScript, Go, Python, Java, PHP
 * **Frontend:** React, Next.js, Vue.js, HTML5, CSS3, Tailwind CSS, Material UI, Bootstrap
-* **Backend:** Node.js, Express.js, NestJS, FastAPI, Spring Boot
+* **Backend:** Node.js, Express.js, NestJS, FastAPI, Spring Boot, Go
 * **Mobile:** React Native
 * **Database:** PostgreSQL, MySQL, MongoDB, Firebase
 * **Cloud, DevOps & Architecture:** Docker, AWS, GCP, RabbitMQ, Microservices
