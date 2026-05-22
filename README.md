@@ -30,9 +30,9 @@ King Mongkut's Institute of Technology Ladkrabang (KMITL) | 2021 - 2025
 
 ### Featured Projects
 
-**AI Computer Vision Microservices (Senior Project)** | *TypeScript, React, NestJS, FastAPI, PostgreSQL, Tailwind CSS*
-* Designed and developed a web application providing non-technical users easy access to AI vision services.
-* Integrated AI models as microservices for object detection, segmentation, and classification on images and videos.
+**AI Computer Vision Microservices (Senior Project)** | *TypeScript, React, NestJS, PostgreSQL, Tailwind CSS*
+* Designed system and developed a web application providing non-technical users easy access to AI vision services.
+* Integrated AI models as microservices for object detection, segmentation, regression, and classification on images and videos.
 
 **Project Management System Web Application** | *Next.js, Go, PostgreSQL, WebSockets*
 * Developed a collaborative project management web application featuring a real-time Kanban board.
