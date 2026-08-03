@@ -37,6 +37,7 @@ King Mongkut's Institute of Technology Ladkrabang (KMITL) | 2021 - 2025
 
 **Project Management System Web Application** | *Next.js, Go, PostgreSQL, WebSockets*
 * Developed a collaborative project management web application featuring a real-time Kanban board.
+* live-demo: [turtask-management.vercel.app](https://turtask-management.vercel.app/)
 
 **Workspace Room Booking** | *Next.js, TypeScript, Tailwind CSS, MongoDB*
 * Built a comprehensive web platform for reserving and managing workspace environments.
