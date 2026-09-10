@@ -105,7 +105,7 @@ King Mongkut's Institute of Technology Ladkrabang (KMITL) &nbsp;|&nbsp; 2021 - 2
 
 <sub>PostgreSQL &nbsp;·&nbsp; MySQL &nbsp;·&nbsp; MongoDB &nbsp;·&nbsp; Firebase</sub>
 
-#### Cloud, DevOps & Architecture
+#### Cloud, DevOps 
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="42" height="42"/>&nbsp;&nbsp;
@@ -114,7 +114,7 @@ King Mongkut's Institute of Technology Ladkrabang (KMITL) &nbsp;|&nbsp; 2021 - 2
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg" alt="RabbitMQ" width="42" height="42"/>
 </p>
 
-<sub>Docker &nbsp;·&nbsp; AWS &nbsp;·&nbsp; Google Cloud &nbsp;·&nbsp; RabbitMQ &nbsp;·&nbsp; Microservices Architecture</sub>
+<sub>Docker &nbsp;·&nbsp; AWS &nbsp;·&nbsp; Google Cloud &nbsp;·&nbsp; RabbitMQ</sub>
 
 #### Tools
 
