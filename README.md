@@ -1,20 +1,3 @@
-# Hi, I'm Putthipong Chobngam
-### Full-Stack Developer | Software Engineer
-
-A highly motivated Information Technology graduate (Software Engineering major) from King Mongkut's Institute of Technology Ladkrabang (KMITL) with a strong focus on full-stack development. I have hands-on experience across the entire development process, from analyzing requirements and designing solutions to building, testing, and deploying applications. I am eager to keep learning, improve my coding practices, and apply software engineering best practices to problem-solving and project collaboration.
-
-- Based in: Bangkok, Thailand
-- Portfolio: [portfolio-putthipong.vercel.app](https://portfolio-putthipong.vercel.app/)
-- Contact: [putthipong.chb@gmail.com](mailto:putthipong.chb@gmail.com)
-
----
-
-### Education
-
-**Bachelor of Science in Information Technology (Software Engineering)**
-King Mongkut's Institute of Technology Ladkrabang (KMITL) | 2021 - 2025
-
----
 <h1 align="center">Hi, I'm Putthipong Chobngam</h1>
 <h3 align="center">Full-Stack Developer | Software Engineer</h3>
 
