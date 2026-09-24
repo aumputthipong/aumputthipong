@@ -41,6 +41,6 @@ King Mongkut's Institute of Technology Ladkrabang (KMITL) &nbsp;|&nbsp; 2021 - 2
 <br/><img src="https://skillicons.dev/icons?i=react,postgres,mysql,mongodb,firebase" />
 
 **Cloud & DevOps / Tools**
-<br/><img src="https://skillicons.dev/icons?i=docker,aws,gcp,rabbitmq,git,github,postman,figma,vscode" />
+<br/><img src="https://skillicons.dev/icons?i=docker,aws,gcp,git,github,postman,figma,vscode" />
 
 
