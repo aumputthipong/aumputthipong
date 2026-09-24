@@ -29,10 +29,10 @@ King Mongkut's Institute of Technology Ladkrabang (KMITL) &nbsp;|&nbsp; 2021 - 2
 ## Skills & Technologies
 
 **Languages**
-<br/><img src="https://skillicons.dev/icons?i=ts,js,go,py,java,php" />
+<br/><img src="https://skillicons.dev/icons?i=ts,js,go,py,java" />
 
 **Frontend**
-<br/><img src="https://skillicons.dev/icons?i=react,nextjs,vue,html,css,tailwind,materialui,bootstrap" />
+<br/><img src="https://skillicons.dev/icons?i=react,nextjs,vue,html,css,tailwind,materialui" />
 
 **Backend**
 <br/><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,spring" />
