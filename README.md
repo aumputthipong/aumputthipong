@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Putthipong Chobngam</h1>
+<h1 align="center">Hi, I'm Putthipong Chobngam (Aum)</h1>
 <h3 align="center">Full-Stack Developer | Software Engineer</h3>
 
 <p align="center">
